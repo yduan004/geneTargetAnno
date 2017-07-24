@@ -1,0 +1,11 @@
+name: geneTargetAnno
+title: geneTargetAnno
+account: yduan004
+server: shinyapps.io
+appId: 194927
+bundleId: 912768
+url: https://yduan004.shinyapps.io/geneTargetAnno/
+when: 1500836849.14538
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app (copy).R
